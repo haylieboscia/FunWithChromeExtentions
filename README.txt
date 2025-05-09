@@ -1,4 +1,5 @@
-## Hello and Welcome to Fun with Chrome Extentions
+
+# Hello and Welcome to Fun with Chrome Extentions
 ###### Haylie Boscia
 
 I wanted to learn about chrome extentions and how they worked, so I wanted to start with something simple.
