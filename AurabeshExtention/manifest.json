@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Aurebesh Translator",
+    "version": "1.0",
+    "description": "Converts to Aurebesh",
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["content.js"],
+          "run_at": "document_end"
+        }
+      ],
+    "web_accessible_resources": [
+        {
+            "resources": ["*.png"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+      "icons": {
+        "128": "a.png"
+      },
+      "permissions": ["activeTab", "scripting"]
+  }
+  
