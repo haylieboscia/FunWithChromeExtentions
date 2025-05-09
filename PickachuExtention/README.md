@@ -29,4 +29,4 @@ Want to use a different image?
    const imageUrl = chrome.runtime.getURL("your-image-name.png");
 
 
-### This has been brought to you by Haylie Boscia (and mostly ChatGPT)
+Built with guidance from ChatGPT by OpenAI.
